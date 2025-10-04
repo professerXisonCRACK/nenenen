@@ -1,12 +1,13 @@
 {
     "845482960441835560": {
         "name": "rain",
-        "rep": 352,
-        "rank": 52,
+        "rep": 51,
+        "rank": 353,
         "cousin_id": "#X1Y2Z3",
         "banner": null,
         "password": "reezy",
-        "token": "9cVthPjfTdNBfPkaC89WtQ"
+        "token": "9cVthPjfTdNBfPkaC89WtQ",
+        "avatar": "https://cdn.discordapp.com/avatars/845482960441835560/12e900b5221a96211dccc902eee563c6.png?size=1024"
     },
     "1403299727834873967": {
         "name": "BEANS",
