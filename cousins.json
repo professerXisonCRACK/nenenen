@@ -1,8 +1,8 @@
 {
     "845482960441835560": {
         "name": "rain",
-        "rep": 51,
-        "rank": 353,
+        "rep": 50,
+        "rank": 354,
         "cousin_id": "#X1Y2Z3",
         "banner": null,
         "password": "reezy",
@@ -41,8 +41,9 @@
         "rank": 366,
         "cousin_id": "#T7C9ZJ",
         "banner": null,
-        "password": null,
-        "avatar": "https://cdn.discordapp.com/avatars/1326736390766985348/f7f24900240617d7c8c45e2abe6bc617.png?size=1024"
+        "password": "Blackcat.12355",
+        "avatar": "https://cdn.discordapp.com/avatars/1326736390766985348/f7f24900240617d7c8c45e2abe6bc617.png?size=1024",
+        "token": "WaLQYc73FbHI4WJaQqL9Jg"
     },
     "869670984792277013": {
         "name": "Tiny",
